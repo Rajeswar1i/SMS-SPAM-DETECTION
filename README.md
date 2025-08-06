@@ -1,2 +1,2 @@
 # SMS-SPAM-DETECTION
-We can detect the spam sms within the data by uding ML
+SMS spam detection involves identifying and filtering unwanted or malicious text messages. Techniques for detecting SMS spam often include analyzing message content for suspicious keywords, patterns, or sender behavior. Machine learning models can be trained to classify messages as spam or legitimate based on features like message length, frequency of messages, and user feedback. Effective SMS spam detection helps protect users from phishing attempts, scams, and other unwanted messages.
